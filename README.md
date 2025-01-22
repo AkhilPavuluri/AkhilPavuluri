@@ -31,12 +31,12 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/akhilpavuluri/" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin" height="40" width="40" /></a>
 <a href="https://stackoverflow.com/users/29317901/akhil" target="blank"><img align="center" src="https://img.icons8.com/color/48/stackoverflow.png" alt="stackoverflow" height="40" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/akhilpavuluris/" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="leetcode" height="40" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/akhilpavuluris" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" alt="hackerrank" height="40" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/jryhuEf6rc" target="blank"><img align="center" src="https://img.icons8.com/color/48/discord-logo.png" alt="discord" height="40" width="40" /></a>
-<a href="https://instagram.com/akhil.pavuluri" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram" height="40" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/pavuluriakhil" target="blank"><img align="center" src="https://img.icons8.com/color/48/facebook-new.png" alt="facebook" height="40" width="40" /></a>
-<a href="https://twitter.com/akhilpavuluri_" target="blank"><img align="center" src="https://img.icons8.com/color/48/twitter--v1.png" alt="twitter" height="40" width="40" /></a>
+<a href="https://leetcode.com/u/Akhil_Pavuluri/" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="leetcode" height="40" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/Akhil_Pavuluris" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" alt="hackerrank" height="40" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://img.icons8.com/color/48/discord-logo.png" alt="discord" height="40" width="40" /></a>
+<a href="https://www.instagram.com/akhil.pavuluri/" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram" height="40" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://img.icons8.com/color/48/facebook-new.png" alt="facebook" height="40" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://img.icons8.com/color/48/twitter--v1.png" alt="twitter" height="40" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools</h3>
