@@ -10,7 +10,7 @@
   <kbd><strong><img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=600&size=22&duration=3000&pause=300&color=00E7FF&center=true&vCenter=true&random=false&width=435&height=35&lines=AI+Engineer;Data+Scientist;Machine+Learning+Engineer;Deep+Learning+Specialist" alt="Typing SVG" /></strong></kbd>
 </div>
 
-<
+<br>
 
 <div align="center">
   <p>🚀 Currently spearheading the development of an <kbd><strong>AI-Powered Smart Traffic Management System</strong></kbd></p>
