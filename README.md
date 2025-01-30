@@ -86,9 +86,9 @@
           <br><br>
           <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,mysql" />
         </td>
-        <td align="center" width="50%" style="padding: 20px;">
+<!--         <td align="center" width="50%" style="padding: 20px;">
           <img alt="Coding" width="250" src="https://github.com/akhilpavuluri/akhilpavuluri/blob/main/AI.gif">
-        </td>
+        </td> -->
       </tr>
     </table>
   </kbd>
