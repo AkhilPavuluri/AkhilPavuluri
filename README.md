@@ -96,7 +96,7 @@
 
 <br>
 
-<div align="center">
+<!--<div align="center">
   <kbd>
     <div style="padding: 10px;">
       <img src="https://img.shields.io/github/followers/akhilpavuluri?label=Followers&style=for-the-badge&color=0969da" alt="GitHub Followers" />
@@ -106,9 +106,9 @@
       <img src="https://img.shields.io/github/watchers/akhilpavuluri/akhilpavuluri?label=Views&style=for-the-badge&color=0969da" alt="Profile Views" />
     </div>
   </kbd>
-</div>
+</div> -->
 
-<br>
+<!--<br>
 
 <h3 align="center">Contributions</h3>
 
@@ -118,4 +118,4 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akhilpavuluri/akhilpavuluri/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/akhilpavuluri/akhilpavuluri/output/github-contribution-grid-snake.svg">
   </picture>
-</div>
+</div> -->
